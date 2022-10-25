@@ -13,6 +13,7 @@ tmp
 *.swp
 *.iml
 coverage
+.env
 app-minimal/
 dump.rdb
 Session.vim
